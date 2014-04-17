@@ -24,7 +24,6 @@
     "hubot-scripts": ">= 2.5.0 < 3.0.0",
     "q": "~0.9.6",
     "underscore": "~1.5.1",
-    #"hubot-hipchat": "~2.5.1-4"
     "hubot-gtalk": ">= 0.0.1"
   },
   "engines": {
