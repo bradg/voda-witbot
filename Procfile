@@ -1,1 +1,1 @@
-web: bin/hubot -a hipchat -n WitBot
+web: bin/hubot -a gtalk -n WitBot
