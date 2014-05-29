@@ -55,7 +55,7 @@ command_for = (f) ->
     dont_know_this_function()
 
 module.exports = (robot) ->
-  robot.respond /(.*)/, (msg) ->
+  robot.respond /wit (.*)/, (msg) ->
     body = msg.match[1]
 
     send_to_wit(robot, body).then (w) ->
